@@ -6,3 +6,5 @@ This is a test version of a system to transport letter and words through laser
 实现语言：C++
 
 开发板：一块老旧的Makeblock MBot板子，鬼知道为什么要用这块，也许是因为板载的光线传感器罢，其他板子修改代码内引脚即可
+
+PS：第一个开源项目，支持一下呗
